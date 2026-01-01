@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rafashacodeid&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rafashaalfiandi&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
 </p>
 
 ## 👨‍💻 Tentang Saya
