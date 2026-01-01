@@ -32,10 +32,10 @@ Saya seorang **Programmer** & **Content Creator** yang suka ngulik teknologi, bi
 
 ## 📊 Statistik GitHub
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rafashacodeid&theme=tokyonight" alt="Detail Profil"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rafashacodeid&theme=tokyonight" alt="Bahasa Paling Sering Digunakan"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafashacodeid&theme=tokyonight&layout=donut" alt="Most Used Languages"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Rafashacodeid&theme=tokyonight&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafashaalfiandi&theme=tokyonight" alt="Detail Profil"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafashaalfiandi&theme=tokyonight" alt="Bahasa Paling Sering Digunakan"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafashaalfiandi&theme=tokyonight&layout=donut" alt="Most Used Languages"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rafashaalfiandi&theme=tokyonight&margin-w=10" alt="GitHub Trophies"/>
 </p>
 
 ---
