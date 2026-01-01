@@ -4,10 +4,6 @@
   <img src="Dokumen/logo.png" alt="Logo Saya" width="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafashaalfiandi&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
-</p>
-
 ## 👨‍💻 Tentang Saya
 
 Saya seorang **Programmer** & **Content Creator** yang suka ngulik teknologi, bikin project seru, dan berbagi pengetahuan lewat konten edukatif & tutorial.
@@ -32,6 +28,7 @@ Saya seorang **Programmer** & **Content Creator** yang suka ngulik teknologi, bi
 
 ## 📊 Statistik GitHub
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rafashaalfiandi&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafashaalfiandi&theme=tokyonight" alt="Detail Profil"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafashaalfiandi&theme=tokyonight" alt="Bahasa Paling Sering Digunakan"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafashaalfiandi&theme=tokyonight&layout=donut" alt="Most Used Languages"/>
