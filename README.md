@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Rafasha Alfiandi
+# 👋 <a href="https://github.com/IchanZX1"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hallow+Salken+Nama+Saya+Ichan+^_^" alt="UwU">
 
 <p align="center">
   <img src="Dokumen/logo.png" alt="Personal Logo" width="150"/>
