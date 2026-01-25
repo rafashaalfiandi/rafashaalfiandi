@@ -1,4 +1,4 @@
-<a href="https://github.com/rafashaalfiandi"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hello+My+Name+Is+Rafasha" alt="UwU">
+<a href="https://github.com/rafashaalfiandi"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hello+My+Name+Is+Rafasha" alt="UwU">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <p align="center">
   <img src="Dokumen/logo.png" alt="Personal Logo" width="150"/>
