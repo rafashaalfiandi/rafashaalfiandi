@@ -1,8 +1,14 @@
-<a href="https://github.com/rafashaalfiandi"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hello+My+Name+Is+Rafasha" alt="UwU">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="center">Hi , I'm Rafashaalfiandi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="Dokumen/logo.png" alt="Personal Logo" width="150"/>
 </p>
+
+---
+
+<a href="https://github.com/rafashaalfiandi"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hello+My+Name+Is+Rafasha" alt="UwU">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+
+---
 
 ## 👨‍💻 About Me
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
