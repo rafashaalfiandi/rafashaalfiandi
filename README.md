@@ -1,6 +1,5 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"> Hi, I'm Rafashaalfiandi</h1>
 
----
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
 
 <p align="center" style="margin:16px 0;">
