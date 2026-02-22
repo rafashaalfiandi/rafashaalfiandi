@@ -2,7 +2,7 @@
 
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
 
-<p align="center" style="margin:8px 0 16px;">
+<p style="margin:8px 0 16px;">
   <a href="https://github.com/rafashaalfiandi"><img src="https://img.shields.io/badge/GitHub-rafashaalfiandi-181717?logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://rafashaalfian.my.id"><img src="https://img.shields.io/badge/Website-rafashaalfian.my.id-0b70f2?logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/Instagram-@rafashacode.id-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
