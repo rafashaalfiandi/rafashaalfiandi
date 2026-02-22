@@ -3,21 +3,12 @@
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
 
 <p align="center" style="margin:8px 0 16px;">
-  <img src="https://img.shields.io/badge/Batch-3.x-blue" alt="Batch 3.x"/>
-  <img src="https://img.shields.io/badge/License-Apache--2.0-green" alt="License Apache-2.0"/>
-  <img src="https://img.shields.io/badge/License-ASLv1.0%20by%20Rafasha%20Alfiandi-red" alt="License ASLv1.0 by Rafasha Alfiandi"/>
   <a href="https://github.com/rafashaalfiandi"><img src="https://img.shields.io/badge/GitHub-rafashaalfiandi-181717?logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://rafashaalfian.my.id"><img src="https://img.shields.io/badge/Website-rafashaalfian.my.id-0b70f2?logo=google-chrome&logoColor=white" alt="Website"></a>
   <a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/Instagram-@rafashacode.id-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 ---
-
-<details>
-<summary>:zap: Website Saya</summary>
-<a href="https://rafashaalfian.my.id">My Website</a>
-</details>
-
 ## 💻 Tech Stack
 
 <div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:center;max-width:1100px;margin:0 auto;">
