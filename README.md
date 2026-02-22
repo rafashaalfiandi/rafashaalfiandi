@@ -79,18 +79,6 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
   <img src="https://upload.wikimedia.org/wikipedia/ru/2/29/Netcat_logo.png" alt="Netcat" height="44" width="44" style="object-fit:contain;"/>
 </div>
 
----
-
-## 📊 GitHub Highlights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafashaalfiandi&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rafashaalfiandi&theme=tokyonight" alt="Profile Details"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafashaalfiandi&theme=tokyonight" alt="Primary Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafashaalfiandi&theme=tokyonight&layout=donut" alt="Top Languages"/>
-</p>
-
----
-
 ## 🎬 Latest YouTube Videos
 ✅ [Creating a Cube Animation Website with HTML (Tutorial)](https://youtu.be/NJMbFQfho8o)  
 ✅ [Building a Responsive Calculator – HTML, CSS, JS](https://youtu.be/NJMbFQfho8o)
