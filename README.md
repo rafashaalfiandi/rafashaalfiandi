@@ -4,7 +4,7 @@
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
 
 <p align="center" style="margin:16px 0;">
-  <img src="https://github-contributions-api.jogruber.de/v4/rafashaalfiandi?palette=github-dark&flat=true" alt="GitHub Contribution Calendar" style="max-width:760px; width:100%; height:auto; border-radius:12px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
+  <img src="https://streak-stats.demolab.com?user=rafashaalfiandi&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&card_width=720" alt="GitHub Streak Stats" style="max-width:760px; width:100%; height:auto; border-radius:12px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
 </p>
 
 ---
@@ -116,7 +116,3 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
 ---
 
 ## 🚀 “Code with curiosity, build with purpose.”
-"/>
-</p>
-
----
