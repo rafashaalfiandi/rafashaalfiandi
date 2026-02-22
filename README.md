@@ -2,6 +2,11 @@
 
 ---
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafashaalfiandi&bg_color=0d1117&color=70a5fd&line=70a5fd&point=1f6feb&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
+</p>
+
 ---
 
 <details>
