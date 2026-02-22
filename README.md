@@ -3,8 +3,8 @@
 ---
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rafashaalfiandi&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd" alt="GitHub Streak Stats" />
+<p align="center" style="margin:16px 0;">
+  <img src="https://ghchart.rshah.org/70a5fd/rafashaalfiandi" alt="GitHub Contribution Chart" style="max-width:720px; width:100%; height:auto;"/>
 </p>
 
 ---
