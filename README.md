@@ -1,12 +1,6 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi , I'm Rafashaalfiandi</h1>
 
 ---
-
-<a href="https://github.com/rafashaalfiandi"><img src="http://readme-typing-svg.herokuapp.com?color=00ff0f&center=true&vCenter=true&multiline=false&lines=Hello+My+Name+Is+Rafasha" alt="UwU">  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
----
-
-## 👨‍💻 About Me
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
 
 - 🎥 Creator of high-density tutorials on [YouTube](https://youtube.com/@Rafashaalfiandi)
