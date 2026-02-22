@@ -50,7 +50,7 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" alt="Ubuntu" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://repository-images.githubusercontent.com/886030385/e2db1e76-b727-4857-808e-c209fa4f8803" alt="CasaOS" height="44" width="44" style="object-fit:contain;"/>
-  <img src="./assets/images/dietpi-logo.webp" alt="DietPi" height="44" width="44" style="object-fit:contain;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Dietpi-logo_256x256.png?20210726182416" alt="DietPi" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/copilot-icon.svg" alt="Copilot" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="OpenAI" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google Gemini" height="44" width="44" style="object-fit:contain;"/>
@@ -58,7 +58,7 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
   <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/grok-logo.png" alt="Grok" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="Nmap" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" alt="Burp Suite" height="44" width="44" style="object-fit:contain;"/>
-  <img src="./assets/images/tor-logo.webp" alt="Tor" height="44" width="44" style="object-fit:contain;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Tor_project_logo_hq.png" alt="Tor" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" alt="Wireshark" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://products.containerize.com/security-testing-tools/metasploit/menu_image.png" alt="Metasploit" height="44" width="44" style="object-fit:contain;"/>
   <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="Nikto" height="44" width="44" style="object-fit:contain;"/>
