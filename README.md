@@ -2,11 +2,6 @@
 
 ---
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
-
-- 🎥 Creator of high-density tutorials on [YouTube](https://youtube.com/@Rafashaalfiandi)
-- 💻 Focused on **web development**, **tooling for security pros**, and **software craftsmanship**
-- 🚀 Committed to continuous learning and sharing what I discover with the community
-
 ---
 
 <details>
