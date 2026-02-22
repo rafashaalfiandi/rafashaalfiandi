@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rafashaalfiandi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"/></h1>
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"> Hi, I'm Rafashaalfiandi</h1>
 
 ---
 I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
@@ -16,7 +16,7 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
 
 ## 💻 Tech Stack
 
-<div align="center" style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:center;">
+<div align="center" style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:center;max-width:1040px;margin:0 auto;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="44"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-css3-logo-icon-1720091.png?f=webp&w=256" alt="CSS" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" alt="JavaScript" height="44"/>
@@ -55,7 +55,7 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" alt="Ubuntu" height="44"/>
   <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" height="44"/>
   <img src="https://repository-images.githubusercontent.com/886030385/e2db1e76-b727-4857-808e-c209fa4f8803" alt="CasaOS" height="44"/>
-  <img src="assets/images/dietpi-logo.webp" alt="DietPi" height="44"/>
+  <img src="./assets/images/dietpi-logo.webp" alt="DietPi" height="44"/>
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/copilot-icon.svg" alt="Copilot" height="44"/>
   <img src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="OpenAI" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google Gemini" height="44"/>
@@ -63,7 +63,7 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
   <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/grok-logo.png" alt="Grok" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="Nmap" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" alt="Burp Suite" height="44"/>
-  <img src="assets/images/tor-logo.webp" alt="Tor" height="44"/>
+  <img src="./assets/images/tor-logo.webp" alt="Tor" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" alt="Wireshark" height="44"/>
   <img src="https://products.containerize.com/security-testing-tools/metasploit/menu_image.png" alt="Metasploit" height="44"/>
   <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="Nikto" height="44"/>
