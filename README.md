@@ -8,6 +8,10 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
   <a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/Instagram-@rafashacode.id-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
+<p align="center" style="margin:16px 0;">
+  <img src="https://streak-stats.demolab.com?user=rafashaalfiandi&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&card_width=720" alt="GitHub Streak Stats" style="max-width:760px; width:100%; height:auto; border-radius:12px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
+</p>
+
 ---
 ## 💻 Tech Stack
 
