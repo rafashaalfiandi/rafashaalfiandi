@@ -16,7 +16,7 @@ I am a passionate **Programmer** and **Content Creator** who thrives on explorin
 
 ## 💻 Tech Stack
 
-<div align="center" style="display:flex;flex-wrap:wrap;gap:16px;justify-content:center;align-items:center;max-width:1040px;margin:0 auto;">
+<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:center;max-width:1100px;margin:0 auto;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="44"/>
   <img src="https://cdn.iconscout.com/icon/free/png-512/free-css3-logo-icon-1720091.png?f=webp&w=256" alt="CSS" height="44"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" alt="JavaScript" height="44"/>
