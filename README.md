@@ -1,4 +1,4 @@
-# Hi, I'm Rafashaalfiandi
+<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"> Hi, I'm Rafashaalfiandi</h1>
 
 I am a **Programmer** and **Content Creator** focused on web development, developer tooling, cybersecurity learning, and practical technology content. I enjoy exploring new tools, turning experiments into useful projects, and sharing what I learn through tutorials and educational content.
 
