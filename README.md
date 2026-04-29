@@ -1,105 +1,125 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="wave"> Hi, I'm Rafashaalfiandi</h1>
+# Hi, I'm Rafashaalfiandi
 
-I am a passionate **Programmer** and **Content Creator** who thrives on exploring emerging technologies, building meaningful projects, and translating that experience into polished educational content and tutorials. I zero in on web development, developer tooling, and forward-looking software engineering practices while consistently experimenting with the next wave of innovation.
+I am a **Programmer** and **Content Creator** focused on web development, developer tooling, cybersecurity learning, and practical technology content. I enjoy exploring new tools, turning experiments into useful projects, and sharing what I learn through tutorials and educational content.
 
-<p style="margin:8px 0 16px;">
-  <a href="https://github.com/rafashaalfiandi"><img src="https://img.shields.io/badge/GitHub-rafashaalfiandi-181717?logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://rafashaalfian.my.id"><img src="https://img.shields.io/badge/Website-rafashaalfian.my.id-0b70f2?logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/Instagram-@rafashacode.id-E4405F?logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
-<p align="center" style="margin:16px 0;">
-  <img src="https://streak-stats.demolab.com?user=rafashaalfiandi&theme=tokyonight&hide_border=true&background=0d1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&card_width=720" alt="GitHub Streak Stats" style="max-width:760px; width:100%; height:auto; border-radius:12px; box-shadow:0 6px 22px rgba(0,0,0,0.25);"/>
-</p>
-
----
-## 💻 Tech Stack
-
-<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;justify-content:center;align-items:center;max-width:1100px;margin:0 auto;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-css3-logo-icon-1720091.png?f=webp&w=256" alt="CSS" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Javascript-shield.png" alt="JavaScript" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" alt="Python" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.freeiconspng.com/uploads/arduino-icon-2.png" alt="Arduino" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/960px-Bash_Logo_Colored.svg.png" alt="Bash" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://cdn2.iconfinder.com/data/icons/symbol-duo-common-9/32/command_prompt-512.png" alt="Batch" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="React.js" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/2367px-Vue.js_Logo_2.svg.png" alt="Vue.js" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://images.seeklogo.com/logo-png/47/2/astro-icon-logo-png_seeklogo-477952.png" alt="Astro" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://avatars.githubusercontent.com/u/70142?s=280&v=4" alt="jQuery" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Angularjsoldicon.png" alt="Angular" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="Bootstrap" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="Next.js" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/id/thumb/a/a9/MySQL.png/250px-MySQL.png" alt="MySQL" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/cloud-data-migration/approved/images/MariaDB_Logo.d8a208f0a889a8f0f0551b8391a065ea79c54f3a.png" alt="MariaDB" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="GraphQL" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/Socket.io.png" alt="Socket.io" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/3205024/logo-vercel-icon-md.png" alt="Vercel" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://cdn.freebiesupply.com/logos/large/2x/gitlab-logo-png-transparent.png" alt="GitLab" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.pngplay.com/wp-content/uploads/3/Amazon-Web-Services-AWS-Logo-Transparent-PNG.png" alt="AWS" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="GCP" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/notion-icon.svg" alt="Notion" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/UbuntuCoF.svg/1024px-UbuntuCoF.svg.png" alt="Ubuntu" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.kali.org/images/kali-dragon-icon.svg" alt="Kali Linux" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://repository-images.githubusercontent.com/886030385/e2db1e76-b727-4857-808e-c209fa4f8803" alt="CasaOS" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Dietpi-logo_256x256.png?20210726182416" alt="DietPi" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/copilot-icon.svg" alt="Copilot" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://freelogopng.com/images/all_img/1681038242chatgpt-logo-png.png" alt="OpenAI" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" alt="Google Gemini" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/deepseek-logo-icon.svg" alt="DeepSeek" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/grok-logo.png" alt="Grok" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Logo_nmap.png" alt="Nmap" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logo_burpsuite.jpg" alt="Burp Suite" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Tor_project_logo_hq.png" alt="Tor" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" alt="Wireshark" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://products.containerize.com/security-testing-tools/metasploit/menu_image.png" alt="Metasploit" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" alt="Nikto" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://cybertzar.com/wp-content/uploads/2022/11/zap-logo.png" alt="OWASP ZAP" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://raw.githubusercontent.com/codershubinc/imageResources/1eae0a5ac3f9ebfc665ce4e746c37a8fb7ea0ff5/tool-logo-sqlmap.svg" alt="SQLMap" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" alt="Hydra" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://dashboard.snapcraft.io/site_media/appmedia/2024/08/com.openwall.John.png" alt="John The Ripper" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" alt="Dirb" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.kali.org/tools/dirbuster/images/dirbuster-logo.svg" alt="Dirbuster" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://zetalytics.com/assets/images/maltego.png" alt="Maltego" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.kali.org/tools/ettercap/images/ettercap-logo.svg" alt="Ettercap" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" alt="WPScan" height="44" width="44" style="object-fit:contain;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/ru/2/29/Netcat_logo.png" alt="Netcat" height="44" width="44" style="object-fit:contain;"/>
-</div>
-
-## 🎬 Latest YouTube Videos
-✅ [Creating a Cube Animation Website with HTML (Tutorial)](https://youtu.be/NJMbFQfho8o)  
-✅ [Building a Responsive Calculator – HTML, CSS, JS](https://youtu.be/NJMbFQfho8o)
-
----
-
-## 📣 Get in Touch
 <p align="center">
-  <a href="mailto:rafashacode.id@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/rafashaalfian"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://github.com/rafashaalfiandi"><img src="https://img.shields.io/badge/GitHub-rafashaalfiandi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://rafashaalfian.my.id"><img src="https://img.shields.io/badge/Website-rafashaalfian.my.id-0B70F2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/Instagram-@rafashacode.id-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://www.youtube.com/@Rafashaalfiandi"><img src="https://img.shields.io/badge/YouTube-Rafashaalfiandi-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
 ---
 
-## 🌐 Social Channels
+## About Me
+
+- Building web projects, automation tools, and learning-focused experiments.
+- Creating content around programming, web development, and technology.
+- Interested in modern frontend stacks, backend fundamentals, Linux, AI tooling, and cybersecurity.
+
+---
+
+## Tech Stack
+
+All badges below use CDN-hosted assets from `img.shields.io`, so the README does not hotlink random logo files from many different websites.
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windowsterminal&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Astro](https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FF5D01)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend, Database, and API
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+### Tools and Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white)
+
+### Cloud and Operating Systems
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows11&logoColor=white)
+![CasaOS](https://img.shields.io/badge/CasaOS-26A69A?style=for-the-badge)
+![DietPi](https://img.shields.io/badge/DietPi-3A6EA5?style=for-the-badge)
+
+### AI Tools
+
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-111111?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-111111?style=for-the-badge)
+
+### Cybersecurity
+
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-CC2927?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-5A5A5A?style=for-the-badge)
+![John The Ripper](https://img.shields.io/badge/John%20The%20Ripper-7B3F00?style=for-the-badge)
+![Dirb](https://img.shields.io/badge/Dirb-4B5563?style=for-the-badge)
+![Dirbuster](https://img.shields.io/badge/Dirbuster-4B5563?style=for-the-badge)
+![Maltego](https://img.shields.io/badge/Maltego-1F2937?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-005571?style=for-the-badge)
+![Ettercap](https://img.shields.io/badge/Ettercap-374151?style=for-the-badge)
+![WPScan](https://img.shields.io/badge/WPScan-111111?style=for-the-badge)
+![Netcat](https://img.shields.io/badge/Netcat-6B7280?style=for-the-badge)
+
+---
+
+## Latest YouTube Videos
+
+- [Creating a Cube Animation Website with HTML](https://youtu.be/NJMbFQfho8o)
+- [Building a Responsive Calculator with HTML, CSS, and JavaScript](https://youtu.be/NJMbFQfho8o)
+
+---
+
+## Get in Touch
+
 <p align="center">
-  <a href="https://github.com/rafashaalfiandi"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-  <a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@Rafashaalfiandi"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="mailto:rafashacode.id@gmail.com"><img src="https://img.shields.io/badge/Email-rafashacode.id@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/rafashaalfian"><img src="https://img.shields.io/badge/Telegram-rafashaalfian-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 ---
 
-## 🚀 “Code with curiosity, build with purpose.”
+> Code with curiosity, build with purpose.
