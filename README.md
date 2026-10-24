@@ -1,207 +1,187 @@
- <!-- RAFASHAALFIANDI | GITHUB PROFILE README -->
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=240&color=0:050505,35:101B16,70:163D2B,100:00FF9C&text=RAFASHA%20%2F%20CODE&fontColor=FFFFFF&fontSize=48&fontAlignY=45&desc=BUILD.%20BREAK.%20UNDERSTAND.%20IMPROVE.&descSize=13&descAlignY=63&animation=fadeIn&stroke=00FF9C&strokeWidth=1" width="100%" alt="Rafasha Code — Build, Break, Understand, Improve" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0C0914,35:211038,65:39205B,100:24E6C3&text=rafashacode.id&fontColor=FFFFFF&fontSize=46&fontAlignY=43&desc=BUILD.%20EXPLORE.%20SECURE.&descSize=14&descAlignY=62&animation=fadeIn&stroke=24E6C3&strokeWidth=1" width="100%" alt="rafashacode.id — Build. Explore. Secure." />
 
 <br/>
 
-<a href="https://rafashaalfian.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-00FF9C?style=flat-square&logo=googlechrome&logoColor=050505" alt="Portfolio" /></a>
-<a href="https://github.com/rafashaalfiandi"><img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" /></a>
-<a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/INSTAGRAM-111111?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
-<a href="https://www.youtube.com/@Rafashaalfiandi"><img src="https://img.shields.io/badge/YOUTUBE-111111?style=flat-square&logo=youtube&logoColor=FF0033" alt="YouTube" /></a>
+<a href="https://rafashaalfian.my.id"><img src="https://img.shields.io/badge/PORTFOLIO-211038?style=for-the-badge&logo=googlechrome&logoColor=24E6C3" alt="Portfolio" /></a>
+<a href="https://github.com/rafashaalfiandi"><img src="https://img.shields.io/badge/GITHUB-211038?style=for-the-badge&logo=github&logoColor=24E6C3" alt="GitHub" /></a>
+<a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/INSTAGRAM-211038?style=for-the-badge&logo=instagram&logoColor=24E6C3" alt="Instagram" /></a>
+<a href="https://www.youtube.com/@Rafashaalfiandi"><img src="https://img.shields.io/badge/YOUTUBE-211038?style=for-the-badge&logo=youtube&logoColor=24E6C3" alt="YouTube" /></a>
 
 <br/><br/>
 
-**Independent-minded developer. Curious by default. Always building.**
+# Rafasha Alfiandi Passage
 
-I turn ideas into digital products, explore how technology works beneath the surface, and document what I learn along the way.
+### Developer · Creator · Security Enthusiast
 
-`WEB DEVELOPMENT` · `AUTOMATION` · `CYBERSECURITY`
+*Building digital experiences. Exploring systems. Learning beyond the surface.*
+
+<br/>
+
+`WEB DEVELOPMENT` &nbsp; `AUTOMATION` &nbsp; `CYBERSECURITY`
 
 </div>
 
 ---
 
-## `01` — THE PERSON BEHIND THE CODE
+## `01` — ABOUT ME
 
 ```text
-┌──────────────────────────────────────────────────┐
-│  USER       rafashaalfiandi                      │
-│  IDENTITY   Developer / Content Creator          │
-│  FOCUS      Web • Automation • Security          │
-│  MINDSET    Learn → Build → Test → Refine        │
-│  PRINCIPLE  Understand the system, not just      │
-│             the interface.                       │
-└──────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│  IDENTITY    rafashacode.id                         │
+│  CREATOR     Rafasha Alfiandi Passage               │
+│  FOCUS       Development / Automation / Security    │
+│  APPROACH    Learn → Build → Test → Improve         │
+│  PHILOSOPHY  Understand the system, not just        │
+│              the interface.                         │
+└────────────────────────────────────────────────────┘
 ```
 
-I enjoy the process behind building technology: understanding a problem, experimenting with different approaches, breaking things in a controlled environment, and turning the results into something useful.
+I'm a programmer and content creator interested in building useful digital products, exploring technology, and sharing practical knowledge.
 
-My interests span modern web development, developer tooling, Linux environments, AI-assisted workflows, and cybersecurity research.
+My journey moves between writing code, automating repetitive tasks, understanding how applications work, and learning how to make digital systems more secure.
 
-I'm not here just to collect technologies. I'm here to understand them, use them, and build things that make a difference.
+I believe good engineering is more than making something work. It's understanding *why* it works, identifying where it can fail, and improving it through experimentation.
 
-- **Build:** Web applications, useful tools, and practical experiments.
-- **Explore:** Systems, APIs, infrastructure, and application security.
-- **Document:** Share knowledge through content, tutorials, and projects.
-- **Improve:** Learn from every bug, failed build, and unexpected result.
+- **Build** — Develop web applications, tools, and practical experiments.
+- **Explore** — Learn about software architecture, APIs, Linux, and infrastructure.
+- **Secure** — Study application security and responsible vulnerability disclosure.
+- **Share** — Turn technical discoveries into projects, tutorials, and educational content.
+
+> Curiosity starts the process. Consistency makes the difference.
 
 ---
 
-## `02` — CURRENTLY EXPLORING
+## `02` — AREAS OF INTEREST
 
 <div align="center">
 
-| DOMAIN | WHAT I'M WORKING TOWARD |
+| AREA | DIRECTION |
 |:--|:--|
-| `01 / DEVELOPMENT` | Building useful, maintainable web applications. |
-| `02 / AUTOMATION` | Reducing repetitive work with practical tooling. |
-| `03 / SECURITY` | Understanding application weaknesses and responsible disclosure. |
-| `04 / INFRASTRUCTURE` | Exploring Linux, deployment, and server-side workflows. |
-| `05 / CONTENT` | Turning technical experiments into accessible learning material. |
+| **Web Engineering** | Modern applications, responsive interfaces, and performance |
+| **Automation** | Scripts, developer utilities, and repeatable workflows |
+| **Cybersecurity** | Web security, reconnaissance, vulnerability validation, and remediation |
+| **Infrastructure** | Linux, deployment, server administration, and system reliability |
+| **AI & Tooling** | AI-assisted development and practical developer workflows |
+| **Technical Content** | Tutorials, experiments, and accessible technical explanations |
 
 </div>
 
 ---
 
-## `03` — THE TOOLBOX
+## `03` — TECHNOLOGY STACK
 
-<sub>Tools are part of the process. Understanding when and why to use them matters more than the number of logos on a profile.</sub>
+<sub>A curated overview of the languages, frameworks, and tools I work with or explore. Technologies listed here reflect my areas of interest and are not intended to imply equal proficiency in every tool.</sub>
 
-<details open>
-<summary><b>01 — Languages & Scripting</b></summary>
-<br/>
+### `01 / LANGUAGES & SCRIPTING`
 
-![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB)
-![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=777BB4)
-![C](https://img.shields.io/badge/C-111111?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Bash](https://img.shields.io/badge/Bash-111111?style=flat-square&logo=gnubash&logoColor=4EAA25)
-![Batch](https://img.shields.io/badge/Batch-111111?style=flat-square&logo=windowsterminal&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-211038?style=flat-square&logo=html5&logoColor=24E6C3)
+![CSS3](https://img.shields.io/badge/CSS3-211038?style=flat-square&logo=css3&logoColor=24E6C3)
+![JavaScript](https://img.shields.io/badge/JavaScript-211038?style=flat-square&logo=javascript&logoColor=24E6C3)
+![Python](https://img.shields.io/badge/Python-211038?style=flat-square&logo=python&logoColor=24E6C3)
+![PHP](https://img.shields.io/badge/PHP-211038?style=flat-square&logo=php&logoColor=24E6C3)
+![C](https://img.shields.io/badge/C-211038?style=flat-square&logo=c&logoColor=24E6C3)
+![C++](https://img.shields.io/badge/C%2B%2B-211038?style=flat-square&logo=cplusplus&logoColor=24E6C3)
+![Bash](https://img.shields.io/badge/Bash-211038?style=flat-square&logo=gnubash&logoColor=24E6C3)
+![Batch](https://img.shields.io/badge/Batch-211038?style=flat-square&logo=windowsterminal&logoColor=24E6C3)
 
-</details>
+### `02 / FRONTEND & FRAMEWORKS`
 
-<details open>
-<summary><b>02 — Frontend & Web Frameworks</b></summary>
-<br/>
+![React](https://img.shields.io/badge/React-211038?style=flat-square&logo=react&logoColor=24E6C3)
+![Vue.js](https://img.shields.io/badge/Vue.js-211038?style=flat-square&logo=vuedotjs&logoColor=24E6C3)
+![Next.js](https://img.shields.io/badge/Next.js-211038?style=flat-square&logo=nextdotjs&logoColor=24E6C3)
+![Astro](https://img.shields.io/badge/Astro-211038?style=flat-square&logo=astro&logoColor=24E6C3)
+![Angular](https://img.shields.io/badge/Angular-211038?style=flat-square&logo=angular&logoColor=24E6C3)
+![jQuery](https://img.shields.io/badge/jQuery-211038?style=flat-square&logo=jquery&logoColor=24E6C3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-211038?style=flat-square&logo=tailwindcss&logoColor=24E6C3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-211038?style=flat-square&logo=bootstrap&logoColor=24E6C3)
 
-![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=FFFFFF)
-![Astro](https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=FF5D01)
-![Angular](https://img.shields.io/badge/Angular-111111?style=flat-square&logo=angular&logoColor=DD0031)
-![jQuery](https://img.shields.io/badge/jQuery-111111?style=flat-square&logo=jquery&logoColor=0769AD)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=7952B3)
+### `03 / BACKEND, DATABASE & APIs`
 
-</details>
+![Node.js](https://img.shields.io/badge/Node.js-211038?style=flat-square&logo=nodedotjs&logoColor=24E6C3)
+![MongoDB](https://img.shields.io/badge/MongoDB-211038?style=flat-square&logo=mongodb&logoColor=24E6C3)
+![MySQL](https://img.shields.io/badge/MySQL-211038?style=flat-square&logo=mysql&logoColor=24E6C3)
+![MariaDB](https://img.shields.io/badge/MariaDB-211038?style=flat-square&logo=mariadb&logoColor=24E6C3)
+![GraphQL](https://img.shields.io/badge/GraphQL-211038?style=flat-square&logo=graphql&logoColor=24E6C3)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-211038?style=flat-square&logo=socketdotio&logoColor=24E6C3)
 
-<details open>
-<summary><b>03 — Backend, Data & APIs</b></summary>
-<br/>
+### `04 / DEVELOPMENT TOOLS`
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=339933)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
-![MariaDB](https://img.shields.io/badge/MariaDB-111111?style=flat-square&logo=mariadb&logoColor=003545)
-![GraphQL](https://img.shields.io/badge/GraphQL-111111?style=flat-square&logo=graphql&logoColor=E10098)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-111111?style=flat-square&logo=socketdotio&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-211038?style=flat-square&logo=git&logoColor=24E6C3)
+![GitHub](https://img.shields.io/badge/GitHub-211038?style=flat-square&logo=github&logoColor=24E6C3)
+![GitLab](https://img.shields.io/badge/GitLab-211038?style=flat-square&logo=gitlab&logoColor=24E6C3)
+![Docker](https://img.shields.io/badge/Docker-211038?style=flat-square&logo=docker&logoColor=24E6C3)
+![Vercel](https://img.shields.io/badge/Vercel-211038?style=flat-square&logo=vercel&logoColor=24E6C3)
+![VS Code](https://img.shields.io/badge/VS_Code-211038?style=flat-square&logo=visualstudiocode&logoColor=24E6C3)
+![Notion](https://img.shields.io/badge/Notion-211038?style=flat-square&logo=notion&logoColor=24E6C3)
+![Arduino](https://img.shields.io/badge/Arduino-211038?style=flat-square&logo=arduino&logoColor=24E6C3)
 
-</details>
+### `05 / CLOUD, LINUX & SYSTEMS`
 
-<details>
-<summary><b>04 — Developer Tools & Deployment</b></summary>
-<br/>
+![AWS](https://img.shields.io/badge/AWS-211038?style=flat-square&logo=amazonwebservices&logoColor=24E6C3)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-211038?style=flat-square&logo=googlecloud&logoColor=24E6C3)
+![Linux](https://img.shields.io/badge/Linux-211038?style=flat-square&logo=linux&logoColor=24E6C3)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-211038?style=flat-square&logo=ubuntu&logoColor=24E6C3)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-211038?style=flat-square&logo=kalilinux&logoColor=24E6C3)
+![Windows](https://img.shields.io/badge/Windows-211038?style=flat-square&logo=windows11&logoColor=24E6C3)
+![CasaOS](https://img.shields.io/badge/CasaOS-211038?style=flat-square)
+![DietPi](https://img.shields.io/badge/DietPi-211038?style=flat-square)
 
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=FFFFFF)
-![GitLab](https://img.shields.io/badge/GitLab-111111?style=flat-square&logo=gitlab&logoColor=FC6D26)
-![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-111111?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
-![Notion](https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=FFFFFF)
-![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat-square&logo=arduino&logoColor=00878F)
+### `06 / AI & ASSISTED WORKFLOWS`
 
-</details>
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-211038?style=flat-square&logo=githubcopilot&logoColor=24E6C3)
+![OpenAI](https://img.shields.io/badge/OpenAI-211038?style=flat-square&logo=openai&logoColor=24E6C3)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-211038?style=flat-square&logo=googlegemini&logoColor=24E6C3)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-211038?style=flat-square&logo=deepseek&logoColor=24E6C3)
+![Grok](https://img.shields.io/badge/Grok-211038?style=flat-square)
 
-<details>
-<summary><b>05 — Cloud, Linux & Operating Systems</b></summary>
-<br/>
+### `07 / CYBERSECURITY & SECURITY RESEARCH`
 
-![AWS](https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111111?style=flat-square&logo=googlecloud&logoColor=4285F4)
-![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-111111?style=flat-square&logo=ubuntu&logoColor=E95420)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=flat-square&logo=kalilinux&logoColor=557C94)
-![Windows](https://img.shields.io/badge/Windows-111111?style=flat-square&logo=windows11&logoColor=0078D4)
-![CasaOS](https://img.shields.io/badge/CasaOS-111111?style=flat-square)
-![DietPi](https://img.shields.io/badge/DietPi-111111?style=flat-square)
+![Nmap](https://img.shields.io/badge/Nmap-211038?style=flat-square&logoColor=24E6C3)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-211038?style=flat-square&logo=burpsuite&logoColor=24E6C3)
+![Wireshark](https://img.shields.io/badge/Wireshark-211038?style=flat-square&logo=wireshark&logoColor=24E6C3)
+![Metasploit](https://img.shields.io/badge/Metasploit-211038?style=flat-square)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-211038?style=flat-square)
+![SQLmap](https://img.shields.io/badge/SQLmap-211038?style=flat-square)
+![Hydra](https://img.shields.io/badge/Hydra-211038?style=flat-square)
+![John the Ripper](https://img.shields.io/badge/John_the_Ripper-211038?style=flat-square)
+![Dirb](https://img.shields.io/badge/Dirb-211038?style=flat-square)
+![DirBuster](https://img.shields.io/badge/DirBuster-211038?style=flat-square)
+![Maltego](https://img.shields.io/badge/Maltego-211038?style=flat-square)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-211038?style=flat-square)
+![Ettercap](https://img.shields.io/badge/Ettercap-211038?style=flat-square)
+![WPScan](https://img.shields.io/badge/WPScan-211038?style=flat-square)
+![Netcat](https://img.shields.io/badge/Netcat-211038?style=flat-square)
+![Tor](https://img.shields.io/badge/Tor-211038?style=flat-square&logo=torproject&logoColor=24E6C3)
 
-</details>
+My security interests include web application testing, reconnaissance automation, vulnerability analysis, and responsible disclosure.
 
-<details>
-<summary><b>06 — AI & Assisted Workflows</b></summary>
-<br/>
-
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-111111?style=flat-square&logo=githubcopilot&logoColor=FFFFFF)
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat-square&logo=openai&logoColor=FFFFFF)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-111111?style=flat-square&logo=googlegemini&logoColor=8E75B2)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-111111?style=flat-square&logo=deepseek&logoColor=4D6BFF)
-![Grok](https://img.shields.io/badge/Grok-111111?style=flat-square)
-
-</details>
-
-<details>
-<summary><b>07 — Cybersecurity & Security Research</b></summary>
-<br/>
-
-![Nmap](https://img.shields.io/badge/Nmap-111111?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=burpsuite&logoColor=FF6633)
-![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=1679A7)
-![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=flat-square)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-111111?style=flat-square)
-![SQLmap](https://img.shields.io/badge/SQLmap-111111?style=flat-square)
-![Hydra](https://img.shields.io/badge/Hydra-111111?style=flat-square)
-![John the Ripper](https://img.shields.io/badge/John_the_Ripper-111111?style=flat-square)
-![Dirb](https://img.shields.io/badge/Dirb-111111?style=flat-square)
-![DirBuster](https://img.shields.io/badge/DirBuster-111111?style=flat-square)
-![Maltego](https://img.shields.io/badge/Maltego-111111?style=flat-square)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-111111?style=flat-square)
-![Ettercap](https://img.shields.io/badge/Ettercap-111111?style=flat-square)
-![WPScan](https://img.shields.io/badge/WPScan-111111?style=flat-square)
-![Netcat](https://img.shields.io/badge/Netcat-111111?style=flat-square)
-![Tor](https://img.shields.io/badge/Tor-111111?style=flat-square&logo=torproject&logoColor=7D4698)
-
-I value ethical testing, responsible vulnerability disclosure, reproducible findings, and clear technical reporting. Security work should help make digital systems safer.
-
-</details>
+I value evidence-based findings, reproducible testing, clear reporting, and practical remediation. Security research should contribute to making digital systems safer.
 
 ---
 
-## `04` — SELECTED WORK & EXPERIMENTS
+## `04` — PROJECTS & EXPERIMENTS
 
 <div align="center">
 
 <a href="https://github.com/rafashaalfiandi">
-<img src="https://img.shields.io/badge/EXPLORE-ALL_REPOSITORIES-00FF9C?style=for-the-badge&logo=github&logoColor=050505" alt="Explore all repositories" />
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-211038?style=for-the-badge&logo=github&logoColor=24E6C3" alt="Explore my repositories" />
 </a>
 
 </div>
 
-This is where ideas become working implementations.
+I use projects to explore ideas, solve practical problems, and understand technology through implementation.
 
-My areas of interest include:
+**Areas I build and experiment in:**
 
-- **Web engineering** — responsive interfaces, application architecture, and performance.
-- **Reconnaissance automation** — organizing authorized security assessment workflows and validating scan output.
-- **Developer utilities** — scripts and tools that make repetitive technical tasks easier.
-- **Security experiments** — understanding web vulnerabilities, investigating root causes, and documenting remediation.
+- **Web applications** — Interfaces, application architecture, performance, and user experience.
+- **Reconnaissance automation** — Organizing authorized assessment workflows and improving result validation.
+- **Developer utilities** — Scripts and tools that reduce repetitive technical work.
+- **Security experiments** — Understanding vulnerabilities, reproducing issues safely, and documenting remediation.
+- **Learning projects** — Small implementations that turn technical concepts into practical experience.
 
-I prefer projects that demonstrate how something works, solve a real problem, or teach a useful technical lesson.
+I believe a useful project should do more than exist in a repository. It should demonstrate an idea, solve a problem, or teach something worth sharing.
 
 ---
 
@@ -209,68 +189,85 @@ I prefer projects that demonstrate how something works, solve a real problem, or
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rafashaalfiandi&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafashaalfiandi&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9&langs_count=8" width="49%" alt="Most-used programming languages on GitHub" />
+<img src="https://github-readme-stats.vercel.app/api?username=rafashaalfiandi&show_icons=true&hide_border=true&bg_color=0C0914&title_color=24E6C3&icon_color=A66BFF&text_color=C9C2D9&rank_icon=github" width="49%" alt="GitHub statistics" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafashaalfiandi&layout=compact&hide_border=true&bg_color=0C0914&title_color=24E6C3&text_color=C9C2D9&langs_count=8" width="49%" alt="Most-used programming languages" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rafashaalfiandi&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" width="80%" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=rafashaalfiandi&hide_border=true&background=0C0914&ring=24E6C3&fire=A66BFF&currStreakLabel=24E6C3&sideLabels=C9C2D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B8498" width="80%" alt="GitHub contribution streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafashaalfiandi&bg_color=0D1117&color=C9D1D9&line=00FF9C&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafashaalfiandi&bg_color=0C0914&color=C9C2D9&line=24E6C3&point=A66BFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
-<sub>Activity visualizations are generated by third-party services and depend on their availability.</sub>
+<br/>
+
+<sub>Statistics and contribution visualizations are provided by third-party services and may be affected by service availability or caching.</sub>
 
 </div>
 
 ---
 
-## `06` — BEYOND THE REPOSITORIES
+## `06` — LEARN, CREATE & SHARE
 
 <div align="center">
 
-### Learn something. Build something. Share something.
+### Technology makes more sense when you build with it.
 
-I also create technology content for people who want to understand programming through practical examples.
+I create programming and technology content focused on practical examples, experiments, and learning through implementation.
 
-<a href="https://www.youtube.com/@Rafashaalfiandi"><img src="https://img.shields.io/badge/WATCH_ON_YOUTUBE-FF0033?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch on YouTube" /></a>
+<a href="https://www.youtube.com/@Rafashaalfiandi">
+<img src="https://img.shields.io/badge/SUBSCRIBE_ON_YOUTUBE-211038?style=for-the-badge&logo=youtube&logoColor=24E6C3" alt="Visit my YouTube channel" />
+</a>
 
-<br/><br/>
+</div>
 
 **Featured videos**
 
 - [Creating a Cube Animation Website with HTML](https://youtu.be/NJMbFQfho8o)
-- [More tutorials and experiments on YouTube](https://www.youtube.com/@Rafashaalfiandi)
-
-</div>
+- [More programming tutorials and experiments](https://www.youtube.com/@Rafashaalfiandi)
 
 ---
 
-## `07` — LET'S CONNECT
+## `07` — CONNECT WITH ME
 
-Whether it's a development idea, a technical discussion, a collaboration, or a cybersecurity learning opportunity, feel free to reach out.
+Have an interesting project, a technical question, or an opportunity to collaborate? Let's connect.
 
 <div align="center">
 
-<a href="mailto:rafashacode.id@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rafashacode.id%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Rafashacode" /></a>
+<a href="https://rafashaalfian.my.id">
+<img src="https://img.shields.io/badge/WEBSITE-211038?style=for-the-badge&logo=googlechrome&logoColor=24E6C3" alt="Personal website" />
+</a>
 
-<a href="https://t.me/rafashaalfian"><img src="https://img.shields.io/badge/TELEGRAM-rafashaalfian-111111?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" /></a>
+<a href="mailto:rafashacode.id@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-211038?style=for-the-badge&logo=gmail&logoColor=24E6C3" alt="Email" />
+</a>
 
-<a href="https://instagram.com/rafashacode.id"><img src="https://img.shields.io/badge/INSTAGRAM-rafashacode.id-111111?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="https://instagram.com/rafashacode.id">
+<img src="https://img.shields.io/badge/INSTAGRAM-211038?style=for-the-badge&logo=instagram&logoColor=24E6C3" alt="Instagram" />
+</a>
 
-<a href="https://rafashaalfian.my.id"><img src="https://img.shields.io/badge/VISIT_MY_WEBSITE-00FF9C?style=for-the-badge&logo=googlechrome&logoColor=050505" alt="Personal website" /></a>
+<a href="https://t.me/rafashaalfian">
+<img src="https://img.shields.io/badge/TELEGRAM-211038?style=for-the-badge&logo=telegram&logoColor=24E6C3" alt="Telegram" />
+</a>
+
+<a href="https://www.youtube.com/@Rafashaalfiandi">
+<img src="https://img.shields.io/badge/YOUTUBE-211038?style=for-the-badge&logo=youtube&logoColor=24E6C3" alt="YouTube" />
+</a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF9C" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:24E6C3,50:A66BFF,100:24E6C3" width="100%" alt="" />
 
 <br/>
 
-**Curiosity is the starting point. Understanding is the advantage.**
+### `rafashacode.id`
 
-<sub>Designed with intention by Rafasha Alfiandi · © All experiments, lessons, and iterations continue.</sub>
+**Build with curiosity. Explore with purpose. Secure what matters.**
+
+<sub>Rafasha Alfiandi Passage · Developer & Content Creator</sub>
 
 </div>
 
-<!-- END OF README -->
+<!-- Branding: rafashacode.id | Teal x Deep Purple -->
